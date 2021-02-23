@@ -1,0 +1,185 @@
+{
+    "collectionName": "reactionthingy",
+    "collectionContent": [
+        {
+            "messageId": "802945223546241034",
+            "reaction": "✅",
+            "type": "roleaccept",
+            "customData": {
+            }
+        },
+        {
+            "messageId": "802940454894567434",
+            "reaction": "AmongUs",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Among us",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940454894567434",
+            "reaction": "Minecraft",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Minecraft",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940454894567434",
+            "reaction": "RocketLeague",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Rocket League",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940454894567434",
+            "reaction": "Brawhalla",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Brawhalla",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940647861387324",
+            "reaction": "📺",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Movies and Drama",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940647861387324",
+            "reaction": "💻",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Tech talk",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940647861387324",
+            "reaction": "🛸",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Drone zone",
+                "ChannelOwner": "Admin"
+            }
+        },
+	{
+            "messageId": "812382966520610836",
+            "reaction": "staaaarwaaaars",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Star Wars",
+                "ChannelOwner": "Admin"
+            }
+        },
+	{
+            "messageId": "812382966520610836",
+            "reaction": "maaarveeel",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "Marvel",
+                "ChannelOwner": "Admin"
+            }
+        },
+        {
+            "messageId": "802940647861387324",
+            "reaction": "🎵",
+            "type": "information",
+            "customData": {
+                "ReactionRoleName": "DJ",
+                "ChannelOwner": "Admin"
+            }
+        },
+	{	
+		"messageId": "802940647861387324",
+		"reaction": "🎨",
+		"type": "information",
+		"customData": {
+			"ReactionRoleName": "Artist",
+			"ChannelOwner": "Admin"
+		}
+	},
+        {
+            "messageId": "802939469245317151",
+            "reaction": "WhatsAppImage20201117at9",
+            "type": "createprivatevc",
+            "customData": {
+                "ChannelName": "BlablaChris"
+            }
+        },
+        {
+            "messageId": "802939312361439247",
+            "reaction": "Minecraft",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "mc",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "756088734151344160"
+            }
+        },
+        {
+            "messageId": "802939312361439247",
+            "reaction": "Brawhalla",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "brawlhalla",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "778961178105741322"
+            }
+        },
+        {
+            "messageId": "802939312361439247",
+            "reaction": "RocketLeague",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "rl",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "731889235413565492"
+            }
+        },
+        {
+            "messageId": "802939312361439247",
+            "reaction": "AmongUs",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "amongus",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "754382312807989249"
+            }
+        },
+        {
+            "messageId": "802946226914984027",
+            "reaction": "📺",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "mov-drama",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "802947082691674123"
+            }
+        },
+        {
+            "messageId": "802946226914984027",
+            "reaction": "🎵",
+            "type": "createvc",
+            "customData": {
+                "ChannelName": "music",
+                "ChannelOwner": "Admin",
+                "MaxChannels": 3,
+                "permrole": "697347969912930326"
+            }
+        }
+    ]
+}

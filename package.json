@@ -1,0 +1,15 @@
+{
+  "name": "Snapix_Discordbot",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/snapix-network/snapixdiscordbot.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/esm.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "esm": "^3.2.25",
+    "path": "^0.12.7"
+  }
+}

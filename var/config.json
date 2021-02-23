@@ -1,0 +1,47 @@
+{
+    "discordToken": "",
+    "commandPrefix": "!",
+    "mainDiscordVoiceChannelId": "802935498167418880",
+    "mainDiscordVoiceCategoryId": "802937113754599424",
+    "guildId": "",
+    "reactionSomething": [
+        
+    ],
+    "customChannels": [
+        {
+            "name": "minecraft",
+            "shortName": "mc",
+            "categorie": "gaming",
+            "channelUserLimit": 99,
+            "channelLimit": 3
+        },
+        {
+            "name": "rocketleague",
+            "shortName": "rl",
+            "categorie": "gaming",
+            "channelUserLimit": 8,
+            "channelLimit": 3
+        },
+        {
+            "name": "brawhalla",
+            "shortName": "braw",
+            "categorie": "gaming",
+            "channelUserLimit": 10,
+            "channelLimit": 3
+        },
+        {
+            "name": "movie&drama",
+            "shortName": "mov & drama",
+            "categorie": "other",
+            "channelUserLimit": 25,
+            "channelLimit": 1
+        },
+        {
+            "name": "music",
+            "shortName": "music",
+            "categorie": "other",
+            "channelUserLimit": 25,
+            "channelLimit": 1
+        }
+    ]
+}
