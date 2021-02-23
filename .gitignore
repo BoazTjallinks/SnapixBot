@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Snapix stuff
+var/btdb/privateChannels.json
+var/btdb/joinRequests.json
+var/btdb/data.json
+var/btdb/createdPublicChannels.json
+var/config.json
